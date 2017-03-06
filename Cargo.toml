@@ -1,0 +1,12 @@
+[package]
+name = "cam-to-hue"
+version = "0.1.0"
+authors = ["Ellie <fagerberg.tobias@gmail.com>"]
+
+[dependencies]
+rscam = "^0.5"
+philipshue = "^0.3"
+image = "^0.12"
+exoquant = "^0.2"
+
+time = "^0.1"
